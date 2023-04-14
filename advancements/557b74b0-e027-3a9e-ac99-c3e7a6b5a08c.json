@@ -15,11 +15,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2023-04-13 01:50:15 +0800",
+      "wither_skeleton": "2023-04-14 23:42:04 +0800",
       "zombie_villager": "2023-04-11 02:07:09 +0800",
+      "magma_cube": "2023-04-14 23:46:21 +0800",
       "polar_bear": "2023-04-13 23:10:40 +0800",
       "skeleton": "2023-04-13 00:43:39 +0800",
       "husk": "2023-04-11 23:12:47 +0800",
+      "blaze": "2023-04-14 23:40:11 +0800",
       "zombie": "2023-04-11 01:32:00 +0800",
+      "witch": "2023-04-14 22:18:52 +0800",
       "spider": "2023-04-11 22:19:07 +0800",
       "creeper": "2023-04-13 00:42:50 +0800",
       "enderman": "2023-04-13 01:53:29 +0800"
@@ -57,6 +61,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2023-04-13 01:32:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-04-14 23:40:12 +0800"
     },
     "done": true
   },
@@ -146,6 +156,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2023-04-11 22:16:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-04-14 23:33:08 +0800"
     },
     "done": true
   },
