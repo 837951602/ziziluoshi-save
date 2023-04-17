@@ -27,6 +27,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2023-04-13 01:50:15 +0800",
+      "shulker": "2023-04-18 00:07:15 +0800",
       "wither_skeleton": "2023-04-14 23:42:04 +0800",
       "zombie_villager": "2023-04-11 02:07:09 +0800",
       "magma_cube": "2023-04-14 23:46:21 +0800",
