@@ -1,4 +1,16 @@
 {
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-04-17 22:19:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-04-17 22:20:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2023-04-11 01:32:00 +0800"
@@ -30,9 +42,27 @@
     },
     "done": false
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-04-17 21:45:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-04-13 01:13:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-04-17 21:45:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-04-17 22:45:14 +0800"
     },
     "done": true
   },
@@ -54,6 +84,7 @@
       "potato": "2023-04-11 23:00:10 +0800",
       "bread": "2023-04-11 01:21:10 +0800",
       "golden_carrot": "2023-04-13 00:34:55 +0800",
+      "enchanted_golden_apple": "2023-04-17 21:29:32 +0800",
       "carrot": "2023-04-13 01:11:59 +0800"
     },
     "done": false
@@ -186,6 +217,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2023-04-15 22:24:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-04-17 22:13:09 +0800"
     },
     "done": true
   },
