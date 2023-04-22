@@ -200,9 +200,21 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-04-22 20:55:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-04-11 22:21:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2023-04-22 20:50:21 +0800"
     },
     "done": true
   },
@@ -245,6 +257,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-04-11 22:44:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-04-22 20:48:12 +0800"
     },
     "done": true
   },
