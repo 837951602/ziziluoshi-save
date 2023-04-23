@@ -40,6 +40,7 @@
       "cave_spider": "2023-04-18 23:07:53 +0800",
       "witch": "2023-04-14 22:18:52 +0800",
       "spider": "2023-04-11 22:19:07 +0800",
+      "ghast": "2023-04-23 22:55:17 +0800",
       "creeper": "2023-04-13 00:42:50 +0800",
       "enderman": "2023-04-13 01:53:29 +0800"
     },
@@ -114,6 +115,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-04-13 01:13:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-04-23 22:55:17 +0800"
     },
     "done": true
   },
